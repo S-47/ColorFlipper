@@ -13,16 +13,6 @@ const color=document.querySelector('.color');
   });
 
   function getRandomNumber(){
-    return Math.floor(Math.random()*colors.length);//floor rotunjeste dar in jos
+    return Math.floor(Math.random()*colors.length);
   }
-
-
-
-
-
-
-
-
-
-
-  }
+}
